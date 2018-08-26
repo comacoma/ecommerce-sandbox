@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/comacoma/ecommerce-sandbox.svg?branch=master)](https://travis-ci.org/comacoma/ecommerce-sandbox)
+
+
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
     |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
