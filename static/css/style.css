@@ -36,7 +36,7 @@ footer {
     margin: 0 auto;
 }
 
-caption p {
+.caption p {
     word-wrap: break-word;
 }
 
